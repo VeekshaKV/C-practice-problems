@@ -1,3 +1,4 @@
+//even or odd
 #include<stdio.h>
 #include<assert.h>
 //function to check if the given number is even or odd
