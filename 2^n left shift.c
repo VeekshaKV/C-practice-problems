@@ -1,3 +1,4 @@
+//Program to find 2^n using left shift
 #include<stdio.h>
 #include<assert.h>
 // function to calculate 2^n using left shift 

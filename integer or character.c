@@ -1,3 +1,4 @@
+// program to check if the given input is character or integer
 #include<stdio.h>
 #include<assert.h>
 #include<string.h>

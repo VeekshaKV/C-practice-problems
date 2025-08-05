@@ -1,3 +1,4 @@
+//program to find sum of random number
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
